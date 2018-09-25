@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\SportsTeamsTristanK\SportsTeamsTristanK\bin\Debug\SportsTeamsTristanK.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\SportsTeamsTristanK\SportsTeamsTristanK\bin\Debug\SportsTeamsTristanK.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\SportsTeamsTristanK\SportsTeamsTristanK\bin\Debug\SportsTeamsTristanK.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\SportsTeamsTristanK\SportsTeamsTristanK\obj\Debug\SportsTeamsTristanK.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\SportsTeamsTristanK\SportsTeamsTristanK\obj\Debug\SportsTeamsTristanK.frmSportsTeams.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\SportsTeamsTristanK\SportsTeamsTristanK\obj\Debug\SportsTeamsTristanK.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\SportsTeamsTristanK\SportsTeamsTristanK\obj\Debug\SportsTeamsTristanK.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\SportsTeamsTristanK\SportsTeamsTristanK\obj\Debug\SportsTeamsTristanK.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\SportsTeamsTristanK\SportsTeamsTristanK\obj\Debug\SportsTeamsTristanK.pdb

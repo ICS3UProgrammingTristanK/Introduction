@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\AreaCircVolTristanK\AreaCircVolTristanK\bin\Debug\AreaCircVolTristanK.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\AreaCircVolTristanK\AreaCircVolTristanK\bin\Debug\AreaCircVolTristanK.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\AreaCircVolTristanK\AreaCircVolTristanK\bin\Debug\AreaCircVolTristanK.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\AreaCircVolTristanK\AreaCircVolTristanK\obj\Debug\AreaCircVolTristanK.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\AreaCircVolTristanK\AreaCircVolTristanK\obj\Debug\AreaCircVolTristanK.frmAreaCircVol.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\AreaCircVolTristanK\AreaCircVolTristanK\obj\Debug\AreaCircVolTristanK.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\AreaCircVolTristanK\AreaCircVolTristanK\obj\Debug\AreaCircVolTristanK.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\AreaCircVolTristanK\AreaCircVolTristanK\obj\Debug\AreaCircVolTristanK.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\AreaCircVolTristanK\AreaCircVolTristanK\obj\Debug\AreaCircVolTristanK.pdb

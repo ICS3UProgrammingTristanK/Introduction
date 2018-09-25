@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\HelloMenuTristanK\HelloMenuTristanK\bin\Debug\HelloMenuTristanK.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\HelloMenuTristanK\HelloMenuTristanK\bin\Debug\HelloMenuTristanK.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\HelloMenuTristanK\HelloMenuTristanK\bin\Debug\HelloMenuTristanK.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\HelloMenuTristanK\HelloMenuTristanK\obj\Debug\HelloMenuTristanK.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\HelloMenuTristanK\HelloMenuTristanK\obj\Debug\HelloMenuTristanK.frmHelloMenu.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\HelloMenuTristanK\HelloMenuTristanK\obj\Debug\HelloMenuTristanK.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\HelloMenuTristanK\HelloMenuTristanK\obj\Debug\HelloMenuTristanK.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\HelloMenuTristanK\HelloMenuTristanK\obj\Debug\HelloMenuTristanK.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\HelloMenuTristanK\HelloMenuTristanK\obj\Debug\HelloMenuTristanK.pdb

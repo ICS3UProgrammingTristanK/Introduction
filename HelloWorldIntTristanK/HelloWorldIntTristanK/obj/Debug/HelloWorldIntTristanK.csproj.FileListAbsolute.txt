@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\HelloWorldIntTristanK\HelloWorldIntTristanK\obj\Debug\HelloWorldIntTristanK.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\HelloWorldIntTristanK\HelloWorldIntTristanK\obj\Debug\HelloWorldIntTristanK.frmHelloWorldInt.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\HelloWorldIntTristanK\HelloWorldIntTristanK\obj\Debug\HelloWorldIntTristanK.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\HelloWorldIntTristanK\HelloWorldIntTristanK\obj\Debug\HelloWorldIntTristanK.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\HelloWorldIntTristanK\HelloWorldIntTristanK\bin\Debug\HelloWorldIntTristanK.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\HelloWorldIntTristanK\HelloWorldIntTristanK\bin\Debug\HelloWorldIntTristanK.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\HelloWorldIntTristanK\HelloWorldIntTristanK\bin\Debug\HelloWorldIntTristanK.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\HelloWorldIntTristanK\HelloWorldIntTristanK\obj\Debug\HelloWorldIntTristanK.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Introduction\HelloWorldIntTristanK\HelloWorldIntTristanK\obj\Debug\HelloWorldIntTristanK.pdb
